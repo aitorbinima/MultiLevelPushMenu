@@ -1,7 +1,5 @@
-Created by Codrops
+Created by binima
+http://binima.com
 
+Created originaly by codrops
 http://www.codrops.com
-
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
-Read more here: http://tympanus.net/codrops/licensing/
